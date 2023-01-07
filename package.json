@@ -1,6 +1,6 @@
 {
   "name": "apngdis-bin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "lib_version": "2.9",
   "description": "apngdis bin-wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
@@ -35,7 +35,7 @@
     "apngdis": "cli.js"
   },
   "engines": {
-    "node": "^14.13.1 || >=16.0.0"
+    "node": ">=16.0.0"
   },
   "scripts": {
     "postinstall": "node lib/install.js",
