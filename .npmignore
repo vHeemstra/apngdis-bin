@@ -1,0 +1,6 @@
+vendor/apngdis*
+.github
+test
+.editorconfig
+.gitattributes
+xo.config.cjs
