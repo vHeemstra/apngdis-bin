@@ -1,6 +1,6 @@
 {
   "name": "apngdis-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "lib_version": "2.9",
   "description": "apngdis bin-wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
