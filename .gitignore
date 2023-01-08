@@ -2,4 +2,5 @@ node_modules
 notes.md
 vendor/apngdis*
 vendor/source/**
-!vendor/source/*.{txt,tar.gz}
+!vendor/source/*.txt
+!vendor/source/*.tar.gz

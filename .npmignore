@@ -1,5 +1,8 @@
 notes.md
 vendor/apngdis*
+vendor/source/**
+!vendor/source/*.txt
+!vendor/source/*.tar.gz
 .github
 test
 .editorconfig
